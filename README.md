@@ -1,6 +1,6 @@
 # Sprint 03: Calibrated Techniques: Ways to Improve Fraud Detection Systems
 
-A data science project made by Data Science Fellows Cohort 7 in Eskwelabs
+A data science project made by Tean Patrick, Data Science Fellows Cohort 7 in Eskwelabs
 
 **Sprint Project Scenario:** 
 
