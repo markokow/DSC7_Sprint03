@@ -2,6 +2,8 @@
 
 A data science project made by Tean Patrick, Data Science Fellows Cohort 7 in Eskwelabs
 
+Application of Big Data Analytics was done in order to recreate a credit card fraud detection system
+
 **Case Study Scenario:** 
 
 Your model went into production with the setting of automatically rejecting fraudulent transactions, but unfortunately it blocked the CEO’s credit card when she went travelling for a snap business meeting and couldn’t check into her hotel! She is furious and has asked for an immediate report on what happened. Fortunately her chief of staff has a much cooler head, and sees this as an opportunity. 
@@ -26,6 +28,9 @@ The effects of false bank declines are as follows:
 **Model Used**
 * XGBoost
 * Random Forest
+
+**Platform Used**
+* Databricks Community Edition
 
 **Presentation**
 
