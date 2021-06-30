@@ -1,8 +1,8 @@
-# Sprint 03: Calibrated Techniques: Ways to Improve Fraud Detection Systems
+## Sprint 03: Calibrated Techniques: Ways to Improve Fraud Detection Systems
 
 A data science project made by Tean Patrick, Data Science Fellows Cohort 7 in Eskwelabs
 
-**Sprint Project Scenario:** 
+**Case Study Scenario:** 
 
 Your model went into production with the setting of automatically rejecting fraudulent transactions, but unfortunately it blocked the CEO’s credit card when she went travelling for a snap business meeting and couldn’t check into her hotel! She is furious and has asked for an immediate report on what happened. Fortunately her chief of staff has a much cooler head, and sees this as an opportunity. 
 
@@ -21,16 +21,17 @@ The effects of false bank declines are as follows:
 
 **Sprint Project Objectives**
 1. Review current fraud detection system of fictional bank Eskwebanks using the given client profile and spending behavior data
-2. Recommend ways to make the fraud detecttion system better
+2. Recommend ways to make the fraud detection system better
 
 **Model Used**
 * XGBoost
 * Random Forest
 
 **Presentation**
+
 [Click the following Link](https://drive.google.com/file/d/1TPKxNPKnrAKg5l86Iq33OGFRlEOIubmF/view?usp=sharing)
 
-### The Team
+## The Team
 * Jon Marco Francisco
 * Shawn Kenley Ong
 * Beverly Lumbera
