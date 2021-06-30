@@ -1,8 +1,7 @@
-## Sprint 03: Calibrated Techniques: Ways to Improve Fraud Detection Systems
+## Sprint 03: Calibrated Techniques: Ways to Improve Fraud Detection Systems.
 
-A data science project made by Tean Patrick, Data Science Fellows Cohort 7 in Eskwelabs
-
-Application of Big Data Analytics was done in order to recreate a credit card fraud detection system
+A data science project made by Tean Patrick, Data Science Fellows Cohort 7 in Eskwelabs.
+The aim of this sprint project is to apply big data analytics in order to recreate a credit card fraud detection system
 
 **Case Study Scenario:** 
 
